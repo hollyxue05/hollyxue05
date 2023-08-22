@@ -1,4 +1,4 @@
-- 👋 Hi, I’m holly @catto-stackko
+- 👋 Hi, I’m Holly @catto-stackko
 - 👀 I’m interested in computer vision and web dev
 - 🌱 I’m currently learning full stack web development with html, css, and js
 - 💞️ I’m looking to collaborate on nothing yet! <3
