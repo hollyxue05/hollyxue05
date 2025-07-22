@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Holly @catto-stackko
+- 👋 Hi, I’m Holly!
 - 👀 I’m interested in computer vision and web dev
-- 🌱 I’m currently learning full stack web development with html, css, and js
-- 💞️ I’m looking to collaborate on nothing yet! <3
-- 📫 You can reach me at hollyxue05@gmail.com 
+- 😍 I'm passionate about using technology and data to make a meaningful, positive impact on my communities 
+- 📫 You can reach me at hollyxue05@gmail.com
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 <!---
 catto-stackko/catto-stackko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
